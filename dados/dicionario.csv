@@ -16,10 +16,10 @@ IEG_2020;Indicador de Engajamento – Média das Notas de Engajamento do Aluno e
 IPS_2020;Indicador Psicossocial – Média das Notas Psicossociais
 ;do Aluno em 2020
 IDA_2020;Indicador de Aprendizagem - Média das Notas do Indicador de Aprendizagem
-IPP_2020;Indicador Psicopedagógico – Me´dia das Notas Psico
+IPP_2020;Indicador Psicopedagógico – Média das Notas Psico
 ;Pedagógicas do Aluno em 2020
 IPV_2020;Indicador de Ponto de Virada – Média das Notas de Ponto de Virada do Aluno em 2020
-IAN_2020;Indicador de Adequação ao Nível – Média das Notas de Adequaça˜o do Aluno ao nível atual em 2020
+IAN_2020;Indicador de Adequação ao Nível – Média das Notas de Adequação do Aluno ao nível atual em 2020
 FASE_2021;Fase é o Nível de Aprendizado do Aluno em 2021
 TURMA_2021;Turma é o número da Turma de cada fase (1A,1B,1C)
 INSTITUICAO_ENSINO_ALUNO_2021;Mostra instituição de Ensino do Aluno em 2021
@@ -73,4 +73,3 @@ PONTO_VIRADA_2022;Campo do Tipo Booleano que sinaliza se o Aluno atingiu o “Po
 IPV_2022;Indicador de Ponto de Virada – Média das Notas de Ponto de Virada do Aluno em 2022
 IAN_2022;Indicador de Adequação ao Nível – Média das Notas de Adequação do Aluno ao nível atual em 2022
 NIVEL_IDEAL_2022;Mostra qual o nível (Fase) ideal do Aluno na Passos Mágicos em 2021
-;
