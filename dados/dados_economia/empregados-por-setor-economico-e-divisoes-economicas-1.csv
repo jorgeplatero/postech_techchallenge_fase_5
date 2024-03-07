@@ -1,0 +1,407 @@
+Year,Grande Sector ID,Grande Sector,Section ID,Section,Division ID,Division,Number workers
+2016,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",184
+2016,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A02,Produção Florestal,13
+2016,2,Indústria,B,Indústrias Extrativas,B08,Extração De Minerais Não Metálicos,3
+2016,2,Indústria,B,Indústrias Extrativas,B09,Atividades De Apoio À Extração De Minerais,20
+2016,2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,368
+2016,2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,6
+2016,2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,19
+2016,2,Indústria,C,Indústrias De Transformação,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",15
+2016,2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,15
+2016,2,Indústria,C,Indústrias De Transformação,C17,"Fabricação De Celulose, Papel E Produtos De Papel",177
+2016,2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,17
+2016,2,Indústria,C,Indústrias De Transformação,C20,Fabricação De Produtos Químicos,0
+2016,2,Indústria,C,Indústrias De Transformação,C21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,386
+2016,2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,260
+2016,2,Indústria,C,Indústrias De Transformação,C23,Fabricação De Produtos De Minerais Não Metálicos,79
+2016,2,Indústria,C,Indústrias De Transformação,C24,Metalurgia,218
+2016,2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",439
+2016,2,Indústria,C,Indústrias De Transformação,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",30
+2016,2,Indústria,C,Indústrias De Transformação,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",481
+2016,2,Indústria,C,Indústrias De Transformação,C28,Fabricação De Máquinas E Equipamentos,222
+2016,2,Indústria,C,Indústrias De Transformação,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",84
+2016,2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,125
+2016,2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,38
+2016,2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",2
+2016,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E36,"Captação, Tratamento E Distribuição De Água",5
+2016,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",51
+2016,2,Indústria,F,Construção,F41,Construção De Edifícios,20
+2016,2,Indústria,F,Construção,F42,Obras De Infraestrutura,23
+2016,2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,108
+2016,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,122
+2016,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",118
+2016,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,1791
+2016,4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,36
+2016,4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,22
+2016,4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,37
+2016,4,Serviços,H,"Transporte, armazenagem e correio",H55,Alojamento,6
+2016,4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,128
+2016,4,Serviços,J,Informação E Comunicação,J58,Edição E Edição Integrada À Impressão,0
+2016,4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",0
+2016,4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,10
+2016,4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,1
+2016,4,Serviços,J,Informação E Comunicação,J63,Atividades De Prestação De Serviços De Informação,0
+2016,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,78
+2016,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",0
+2016,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",2
+2016,4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,4
+2016,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",95
+2016,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,0
+2016,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",0
+2016,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,1
+2016,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",4
+2016,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,2
+2016,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,56
+2016,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N78,"Seleção, Agenciamento E Locação De Mão De Obra",0
+2016,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",1
+2016,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",2
+2016,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,158
+2016,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",153
+2016,4,Serviços,P,Educação,P85,Educação,324
+2016,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,44
+2016,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",23
+2016,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q88,Serviços De Assistência Social Sem Alojamento,0
+2016,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",1
+2016,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,130
+2016,4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,80
+2016,4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,5
+2016,4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,34
+2016,5,Administração pública,O,"Administração Pública, Defesa E Seguridade Social",O84,"Administração Pública, Defesa E Seguridade Social",1609
+2017,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",161
+2017,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A02,Produção Florestal,12
+2017,2,Indústria,B,Indústrias Extrativas,B09,Atividades De Apoio À Extração De Minerais,23
+2017,2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,365
+2017,2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,5
+2017,2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,22
+2017,2,Indústria,C,Indústrias De Transformação,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",16
+2017,2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,27
+2017,2,Indústria,C,Indústrias De Transformação,C17,"Fabricação De Celulose, Papel E Produtos De Papel",179
+2017,2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,16
+2017,2,Indústria,C,Indústrias De Transformação,C20,Fabricação De Produtos Químicos,0
+2017,2,Indústria,C,Indústrias De Transformação,C21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,410
+2017,2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,167
+2017,2,Indústria,C,Indústrias De Transformação,C23,Fabricação De Produtos De Minerais Não Metálicos,71
+2017,2,Indústria,C,Indústrias De Transformação,C24,Metalurgia,13
+2017,2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",352
+2017,2,Indústria,C,Indústrias De Transformação,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",17
+2017,2,Indústria,C,Indústrias De Transformação,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",413
+2017,2,Indústria,C,Indústrias De Transformação,C28,Fabricação De Máquinas E Equipamentos,205
+2017,2,Indústria,C,Indústrias De Transformação,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",86
+2017,2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,123
+2017,2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,41
+2017,2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",2
+2017,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E36,"Captação, Tratamento E Distribuição De Água",4
+2017,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",63
+2017,2,Indústria,F,Construção,F41,Construção De Edifícios,13
+2017,2,Indústria,F,Construção,F42,Obras De Infraestrutura,3
+2017,2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,116
+2017,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,112
+2017,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",98
+2017,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,1802
+2017,4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,52
+2017,4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,21
+2017,4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,36
+2017,4,Serviços,H,"Transporte, armazenagem e correio",H55,Alojamento,4
+2017,4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,128
+2017,4,Serviços,J,Informação E Comunicação,J58,Edição E Edição Integrada À Impressão,0
+2017,4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",0
+2017,4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,11
+2017,4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,1
+2017,4,Serviços,J,Informação E Comunicação,J63,Atividades De Prestação De Serviços De Informação,0
+2017,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,73
+2017,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",1
+2017,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",3
+2017,4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,2
+2017,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",95
+2017,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,0
+2017,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",0
+2017,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,2
+2017,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",4
+2017,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,2
+2017,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,47
+2017,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N78,"Seleção, Agenciamento E Locação De Mão De Obra",0
+2017,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",0
+2017,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",2
+2017,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,104
+2017,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",79
+2017,4,Serviços,P,Educação,P85,Educação,298
+2017,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,39
+2017,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",23
+2017,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q88,Serviços De Assistência Social Sem Alojamento,0
+2017,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",0
+2017,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,118
+2017,4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,87
+2017,4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,4
+2017,4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,42
+2017,5,Administração pública,O,"Administração Pública, Defesa E Seguridade Social",O84,"Administração Pública, Defesa E Seguridade Social",1520
+2018,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",177
+2018,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A02,Produção Florestal,7
+2018,2,Indústria,B,Indústrias Extrativas,B08,Extração De Minerais Não Metálicos,16
+2018,2,Indústria,B,Indústrias Extrativas,B09,Atividades De Apoio À Extração De Minerais,5
+2018,2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,427
+2018,2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,4
+2018,2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,44
+2018,2,Indústria,C,Indústrias De Transformação,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",17
+2018,2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,35
+2018,2,Indústria,C,Indústrias De Transformação,C17,"Fabricação De Celulose, Papel E Produtos De Papel",175
+2018,2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,18
+2018,2,Indústria,C,Indústrias De Transformação,C20,Fabricação De Produtos Químicos,0
+2018,2,Indústria,C,Indústrias De Transformação,C21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,442
+2018,2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,321
+2018,2,Indústria,C,Indústrias De Transformação,C23,Fabricação De Produtos De Minerais Não Metálicos,72
+2018,2,Indústria,C,Indústrias De Transformação,C24,Metalurgia,149
+2018,2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",348
+2018,2,Indústria,C,Indústrias De Transformação,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",45
+2018,2,Indústria,C,Indústrias De Transformação,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",382
+2018,2,Indústria,C,Indústrias De Transformação,C28,Fabricação De Máquinas E Equipamentos,243
+2018,2,Indústria,C,Indústrias De Transformação,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",79
+2018,2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,123
+2018,2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,39
+2018,2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",1
+2018,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E36,"Captação, Tratamento E Distribuição De Água",3
+2018,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",59
+2018,2,Indústria,F,Construção,F41,Construção De Edifícios,15
+2018,2,Indústria,F,Construção,F42,Obras De Infraestrutura,2
+2018,2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,63
+2018,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,115
+2018,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",152
+2018,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,1747
+2018,4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,69
+2018,4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,26
+2018,4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,41
+2018,4,Serviços,H,"Transporte, armazenagem e correio",H55,Alojamento,2
+2018,4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,128
+2018,4,Serviços,J,Informação E Comunicação,J58,Edição E Edição Integrada À Impressão,0
+2018,4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",0
+2018,4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,16
+2018,4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,1
+2018,4,Serviços,J,Informação E Comunicação,J63,Atividades De Prestação De Serviços De Informação,0
+2018,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,71
+2018,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",1
+2018,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",3
+2018,4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,1
+2018,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",100
+2018,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,0
+2018,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",0
+2018,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,1
+2018,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",4
+2018,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,3
+2018,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,65
+2018,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N78,"Seleção, Agenciamento E Locação De Mão De Obra",0
+2018,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",6
+2018,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",2
+2018,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,98
+2018,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",93
+2018,4,Serviços,P,Educação,P85,Educação,351
+2018,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,58
+2018,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",14
+2018,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q88,Serviços De Assistência Social Sem Alojamento,0
+2018,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",0
+2018,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,157
+2018,4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,91
+2018,4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,4
+2018,4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,47
+2018,5,Administração pública,O,"Administração Pública, Defesa E Seguridade Social",O84,"Administração Pública, Defesa E Seguridade Social",1461
+2019,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",172
+2019,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A02,Produção Florestal,14
+2019,2,Indústria,B,Indústrias Extrativas,B08,Extração De Minerais Não Metálicos,16
+2019,2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,494
+2019,2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,3
+2019,2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,49
+2019,2,Indústria,C,Indústrias De Transformação,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",0
+2019,2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,51
+2019,2,Indústria,C,Indústrias De Transformação,C17,"Fabricação De Celulose, Papel E Produtos De Papel",192
+2019,2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,6
+2019,2,Indústria,C,Indústrias De Transformação,C20,Fabricação De Produtos Químicos,1
+2019,2,Indústria,C,Indústrias De Transformação,C21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,585
+2019,2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,273
+2019,2,Indústria,C,Indústrias De Transformação,C23,Fabricação De Produtos De Minerais Não Metálicos,76
+2019,2,Indústria,C,Indústrias De Transformação,C24,Metalurgia,0
+2019,2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",306
+2019,2,Indústria,C,Indústrias De Transformação,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",15
+2019,2,Indústria,C,Indústrias De Transformação,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",331
+2019,2,Indústria,C,Indústrias De Transformação,C28,Fabricação De Máquinas E Equipamentos,216
+2019,2,Indústria,C,Indústrias De Transformação,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",86
+2019,2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,98
+2019,2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,33
+2019,2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",109
+2019,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E36,"Captação, Tratamento E Distribuição De Água",7
+2019,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",58
+2019,2,Indústria,F,Construção,F41,Construção De Edifícios,145
+2019,2,Indústria,F,Construção,F42,Obras De Infraestrutura,1
+2019,2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,49
+2019,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,110
+2019,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",143
+2019,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,1694
+2019,4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,91
+2019,4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,25
+2019,4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,42
+2019,4,Serviços,H,"Transporte, armazenagem e correio",H55,Alojamento,4
+2019,4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,109
+2019,4,Serviços,J,Informação E Comunicação,J58,Edição E Edição Integrada À Impressão,0
+2019,4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",0
+2019,4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,34
+2019,4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,0
+2019,4,Serviços,J,Informação E Comunicação,J63,Atividades De Prestação De Serviços De Informação,0
+2019,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,77
+2019,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",1
+2019,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",7
+2019,4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,1
+2019,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",109
+2019,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,0
+2019,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",0
+2019,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,1
+2019,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",1
+2019,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,2
+2019,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,53
+2019,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N78,"Seleção, Agenciamento E Locação De Mão De Obra",0
+2019,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",7
+2019,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",2
+2019,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,97
+2019,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",84
+2019,4,Serviços,P,Educação,P85,Educação,369
+2019,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,54
+2019,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",12
+2019,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q88,Serviços De Assistência Social Sem Alojamento,0
+2019,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",0
+2019,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,133
+2019,4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,87
+2019,4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,76
+2019,4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,51
+2019,4,Serviços,T,Serviços Domésticos,T97,Serviços Domésticos,0
+2019,5,Administração pública,O,"Administração Pública, Defesa E Seguridade Social",O84,"Administração Pública, Defesa E Seguridade Social",1458
+2020,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",152
+2020,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A02,Produção Florestal,7
+2020,2,Indústria,B,Indústrias Extrativas,B08,Extração De Minerais Não Metálicos,16
+2020,2,Indústria,B,Indústrias Extrativas,B09,Atividades De Apoio À Extração De Minerais,22
+2020,2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,395
+2020,2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,3
+2020,2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,47
+2020,2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,36
+2020,2,Indústria,C,Indústrias De Transformação,C17,"Fabricação De Celulose, Papel E Produtos De Papel",234
+2020,2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,5
+2020,2,Indústria,C,Indústrias De Transformação,C20,Fabricação De Produtos Químicos,0
+2020,2,Indústria,C,Indústrias De Transformação,C21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,568
+2020,2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,306
+2020,2,Indústria,C,Indústrias De Transformação,C23,Fabricação De Produtos De Minerais Não Metálicos,66
+2020,2,Indústria,C,Indústrias De Transformação,C24,Metalurgia,0
+2020,2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",268
+2020,2,Indústria,C,Indústrias De Transformação,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",36
+2020,2,Indústria,C,Indústrias De Transformação,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",373
+2020,2,Indústria,C,Indústrias De Transformação,C28,Fabricação De Máquinas E Equipamentos,274
+2020,2,Indústria,C,Indústrias De Transformação,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",87
+2020,2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,45
+2020,2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,24
+2020,2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",16
+2020,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E36,"Captação, Tratamento E Distribuição De Água",8
+2020,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",41
+2020,2,Indústria,F,Construção,F41,Construção De Edifícios,158
+2020,2,Indústria,F,Construção,F42,Obras De Infraestrutura,9
+2020,2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,40
+2020,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,103
+2020,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",155
+2020,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,1725
+2020,4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,84
+2020,4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,18
+2020,4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,40
+2020,4,Serviços,H,"Transporte, armazenagem e correio",H55,Alojamento,3
+2020,4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,114
+2020,4,Serviços,J,Informação E Comunicação,J58,Edição E Edição Integrada À Impressão,0
+2020,4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",0
+2020,4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,80
+2020,4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,0
+2020,4,Serviços,J,Informação E Comunicação,J63,Atividades De Prestação De Serviços De Informação,0
+2020,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,66
+2020,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",1
+2020,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",15
+2020,4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,0
+2020,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",111
+2020,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,0
+2020,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",0
+2020,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,1
+2020,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",0
+2020,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,2
+2020,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,3
+2020,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N78,"Seleção, Agenciamento E Locação De Mão De Obra",0
+2020,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",4
+2020,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",2
+2020,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,71
+2020,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",44
+2020,4,Serviços,P,Educação,P85,Educação,314
+2020,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,47
+2020,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",22
+2020,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q88,Serviços De Assistência Social Sem Alojamento,0
+2020,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",0
+2020,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,121
+2020,4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,101
+2020,4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,156
+2020,4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,54
+2020,5,Administração pública,O,"Administração Pública, Defesa E Seguridade Social",O84,"Administração Pública, Defesa E Seguridade Social",1461
+2021,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",136
+2021,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A02,Produção Florestal,5
+2021,1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A03,Pesca E Aqüicultura,0
+2021,2,Indústria,B,Indústrias Extrativas,B09,Atividades De Apoio À Extração De Minerais,15
+2021,2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,451
+2021,2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,1
+2021,2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,35
+2021,2,Indústria,C,Indústrias De Transformação,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",4
+2021,2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,41
+2021,2,Indústria,C,Indústrias De Transformação,C17,"Fabricação De Celulose, Papel E Produtos De Papel",183
+2021,2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,5
+2021,2,Indústria,C,Indústrias De Transformação,C20,Fabricação De Produtos Químicos,0
+2021,2,Indústria,C,Indústrias De Transformação,C21,Fabricação De Produtos Farmoquímicos E Farmacêuticos,689
+2021,2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,258
+2021,2,Indústria,C,Indústrias De Transformação,C23,Fabricação De Produtos De Minerais Não Metálicos,70
+2021,2,Indústria,C,Indústrias De Transformação,C24,Metalurgia,43
+2021,2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",272
+2021,2,Indústria,C,Indústrias De Transformação,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",41
+2021,2,Indústria,C,Indústrias De Transformação,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",336
+2021,2,Indústria,C,Indústrias De Transformação,C28,Fabricação De Máquinas E Equipamentos,302
+2021,2,Indústria,C,Indústrias De Transformação,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",93
+2021,2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,109
+2021,2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,26
+2021,2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",25
+2021,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E36,"Captação, Tratamento E Distribuição De Água",9
+2021,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E37,Esgoto E Atividades Relacionadas,1
+2021,2,Indústria,E,"Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação",E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",45
+2021,2,Indústria,F,Construção,F41,Construção De Edifícios,20
+2021,2,Indústria,F,Construção,F42,Obras De Infraestrutura,2
+2021,2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,49
+2021,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,114
+2021,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",152
+2021,3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,1747
+2021,4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,50
+2021,4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,14
+2021,4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,37
+2021,4,Serviços,H,"Transporte, armazenagem e correio",H55,Alojamento,20
+2021,4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,124
+2021,4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",0
+2021,4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,102
+2021,4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,3
+2021,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,76
+2021,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",1
+2021,4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",11
+2021,4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,3
+2021,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",122
+2021,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,3
+2021,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",1
+2021,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,1
+2021,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",3
+2021,4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,1
+2021,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,4
+2021,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N78,"Seleção, Agenciamento E Locação De Mão De Obra",0
+2021,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",2
+2021,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",3
+2021,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,62
+2021,4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",31
+2021,4,Serviços,P,Educação,P85,Educação,1647
+2021,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,54
+2021,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",23
+2021,4,Serviços,Q,Saúde Humana E Serviços Sociais,Q88,Serviços De Assistência Social Sem Alojamento,0
+2021,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",0
+2021,4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,122
+2021,4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,86
+2021,4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,82
+2021,4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,67
+2021,4,Serviços,T,Serviços Domésticos,T97,Serviços Domésticos,0
+2021,5,Administração pública,O,"Administração Pública, Defesa E Seguridade Social",O84,"Administração Pública, Defesa E Seguridade Social",35
