@@ -1,6 +1,6 @@
 # Tech challenge da 5° fase da pós-graduação em Data Analytics da FIAP
 
-![logo do projeto](https://github.com/jorgeplatero/postech_techchallenge_fase_4/assets/99737345/2aa76bfc-1d97-4916-8de5-cc17b40d64ed)
+![logo do projeto](https://github.com/jorgeplatero/postech_techchallenge_fase_5/blob/9b93f678408eadd3a079a6cef9103eb34b54ae7f/img/passos_magicos_logo.png)
 
 ## Descrição do Projeto
 
