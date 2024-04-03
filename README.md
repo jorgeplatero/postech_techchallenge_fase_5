@@ -21,7 +21,7 @@ Os dados utilizados neste projeto foram em sua maior parte fornecidos pela ONG, 
 
 ## Links para as Aplicações
 
-Dashboard Power BI: <a style='text-decoration:none;' href='' target='_blank'>link</a>.
+Dashboard Power BI: <a style='text-decoration:none;' href='https://app.powerbi.com/view?r=eyJrIjoiMTkzNjNlNGEtY2JjYy00OGRmLTgyMzItZDk5NmRlZjI0MDVkIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9' target='_blank'>link</a>.
 
 ## Colaboradores
 
